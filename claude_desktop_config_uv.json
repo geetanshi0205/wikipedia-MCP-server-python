@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "wikipedia": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/path/to/your/wikipedia-mcp",
+        "run",
+        "server.py"
+      ],
+      "env": {}
+    }
+  }
+}

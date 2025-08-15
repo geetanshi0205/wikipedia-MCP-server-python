@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "wikipedia": {
+      "command": "/path/to/your/wikipedia-mcp/venv/bin/python",
+      "args": ["/path/to/your/wikipedia-mcp/server.py"],
+      "env": {}
+    }
+  }
+}
